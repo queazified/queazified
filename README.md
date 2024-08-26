@@ -23,6 +23,8 @@ Hey there, my name is Andrey, also known as Queazified - a person who runs their
 - 😄 Pronouns: he/him
 - 📫 How to reach me: You can reach me via email! Send me an email at andrey@queazified.co.uk and I'll try and get back to you as soon as I can!
 
+---
+
 ## Statistics:
-[!Queazified's GitHub Stats(https://github-readme-stats.vercel.app/api?username=Queazified)](https://github.com/Queazified)
+[!Queazified's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Queazified)](https://github.com/Queazified)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Queazified)](https://github.com/Queazified)
