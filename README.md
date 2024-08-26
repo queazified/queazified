@@ -26,5 +26,5 @@ Hey there, my name is Andrey, also known as Queazified - a person who runs their
 ---
 
 ## Statistics:
-[!Queazified's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Queazified)](https://github.com/Queazified)
+[![Queazified's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Queazified)](https://github.com/Queazified)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Queazified)](https://github.com/Queazified)
