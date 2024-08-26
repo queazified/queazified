@@ -22,3 +22,7 @@ Hey there, my name is Andrey, also known as Queazified - a person who runs their
 - ⚡ Server specs: HP EliteDesk 800 G3 SFF with a CPU of Intel Core i5-7500, 24GB of DDR4 RAM and a GPU as the GT710 (2GB VRAM version), I would say this is not too beefy of a system, but not too weak. My old server however was the HP EliteDesk 800 G3 TWR, which is the same system, just bigger. I prefer the SFF model though, because of the size, and you get an M.2 slot, which the TWR model doesn't.
 - 😄 Pronouns: he/him
 - 📫 How to reach me: You can reach me via email! Send me an email at andrey@queazified.co.uk and I'll try and get back to you as soon as I can!
+
+## Statistics:
+[!Queazified's GitHub Stats(https://github-readme-stats.vercel.app/api?username=Queazified)](https://github.com/Queazified)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Queazified)](https://github.com/Queazified)
