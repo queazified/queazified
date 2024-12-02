@@ -26,6 +26,6 @@ Hey there, my name is Andrey, also known as Queazified - a person who runs their
 ---
 
 ## Statistics:
-[![Queazified's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Queazified)](https://github.com/Queazified)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Queazified)](https://github.com/Queazified)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Queazified)](https://github.com/Queazified)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fantasticvideosspotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fantasticvideosspotify&redirect=true)
