@@ -1,31 +1,48 @@
-## Hi there 👋
+<h2 align="left">Hi 👋! My name is Andrey and I'm a computer enthusiast, from the United Kingdom</h2>
 
-<!--
-**queazified/queazified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=queazified&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=queazified&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
 
-Hey there, my name is Andrey, also known as Queazified - a person who runs their own Home Lab and enjoys trying out and fixing new technology.
+<div align="left">
+  <a href="youtube.com/@queazified" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="instagram.com/andreycohai" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="twitch.tv/queazified" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
-- 🔭 I’m currently working on my littlelink repo, which is like Linktree, a link that shows you all my social media, and other things, like my Spotify account, but is open source, unlike Linktree. I'm also working on other stuff, like my Home Lab, which helps me improve on my IT skills, aswell as helping to make my like just that little bit easier.
-- 🌱 I’m currently learning how to use Proxmox, a hypervisor that I now use, and TrueNAS, my new way to store files on my server. So far my SMB share is faster and more reliable than it was on Samba.
-- ⚡ Server specs: HP EliteDesk 800 G3 SFF with a CPU of Intel Core i5-7500, 24GB of DDR4 RAM and a GPU as the GT710 (2GB VRAM version), I would say this is not too beefy of a system, but not too weak. My old server however was the HP EliteDesk 800 G3 TWR, which is the same system, just bigger. I prefer the SFF model though, because of the size, and you get an M.2 slot, which the TWR model doesn't.
-- 😄 Pronouns: he/him
-- 📫 How to reach me: You can reach me via email! Send me an email at andrey@queazified.co.uk and I'll try and get back to you as soon as I can!
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-## Statistics:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Queazified)](https://github.com/Queazified)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Queazified)](https://github.com/Queazified)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fantasticvideosspotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fantasticvideosspotify&redirect=true)
+###
+
+<br clear="both">
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/queazified/queazified/output/snake.svg" alt="Snake animation" />
+
+###
